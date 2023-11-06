@@ -12,3 +12,13 @@ li {
 header {
 	color: aqua;
 }
+
+section {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+
+	.block {
+		background-color: gray;
+	}
+}
