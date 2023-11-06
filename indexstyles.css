@@ -5,7 +5,8 @@ ul {
 }
 
 li {
-	display: inline
+	display: inline;
+	margin: 5px;
 }
 
 header {
