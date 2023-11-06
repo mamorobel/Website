@@ -2,6 +2,6 @@ ul {
 	display: inline;
 }
 
-header {
-	color: red;
+* {
+	background-color: black;
 }
