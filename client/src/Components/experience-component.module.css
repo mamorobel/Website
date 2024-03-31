@@ -1,0 +1,10 @@
+.experiences {
+    display: grid;
+    grid-template-rows: 1fr 2fr;
+    gap: 20px;
+
+    .expTable {
+        display: flex;
+        flex-direction: row;
+    }
+}

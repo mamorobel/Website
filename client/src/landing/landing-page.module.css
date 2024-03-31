@@ -1,0 +1,19 @@
+
+.landing{
+    /*display: flex;*/
+    /*flex-direction: column;*/
+    display: grid;
+    grid-template-rows: 1fr 2fr;
+    text-align: center;
+    height: 65rem;
+    /*background-image: url("../assets/landing.jpg");*/
+    background-color: aquamarine;
+    /*background-size: contain;*/
+    /*background-repeat: repeat;*/
+
+    .aboutMe {
+        /*display: grid;*/
+        height: 100%;
+        justify-content: center;
+    }
+}
